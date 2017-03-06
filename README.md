@@ -1,7 +1,7 @@
 # robotframework-excelreader
-a python excel reader for robotframework
+a python excel reader for [robotframework](http://robotframework.org/)
 
-## Installation requirement
+## Installation
 
 ```
 $ pip install robotframework
